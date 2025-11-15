@@ -5,4 +5,4 @@
 2. [奇想盒](https://github.com/nikkigallery/Whimbox)
    * 基于大语言模型和图像识别技术的游戏AI智能体（🔥全力开发中）
 3. [奇想盒启动器](https://github.com/nikkigallery/WhimboxLauncher)
-   * 一键配置、更新、启动奇想盒，懒人必备（🔥内测中）
+   * 一键配置、更新、启动奇想盒，懒人必备
