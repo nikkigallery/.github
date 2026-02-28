@@ -4,5 +4,5 @@
    * 摄影分享网站，自动提取照片参数和穿搭染色信息，定期举办摄影比赛
 2. [奇想盒](https://github.com/nikkigallery/Whimbox)
    * 基于大语言模型和图像识别技术的游戏AI智能体（🔥全力开发中）
-3. [奇想盒启动器](https://github.com/nikkigallery/WhimboxLauncher)
-   * 一键配置、更新、启动奇想盒，懒人必备
+3. [奇想盒UI](https://github.com/nikkigallery/whimbox_app)
+   * 自动更新、可视化操作、悬浮小窗（🔥全力开发中）
